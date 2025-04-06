@@ -1,11 +1,13 @@
 # 🛡️ አፄ ባያ - Telegram Anti-Scam Bot
+ 
 
 A Node.js Telegram bot that helps protect your group community by removing scam posts. When a trusted member replies to a suspicious message with the `/remove` command, the bot:
 
 - Deletes the reported message
 - Kicks the offending user
 - Optionally logs or reports the action
-- Deletes the `/remove` command message itself
+- Deletes the `/remove` command message itself...  but `it dosen't know mercy ☠️❗❌`
+
 
 ---
 
