@@ -21,5 +21,5 @@ A Node.js Telegram bot that helps protect your group community by removing scam 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/emperiorbaya.git
+git clone https://github.com/BayaInnovation/emperiorbaya.git
 cd emperiorbaya
